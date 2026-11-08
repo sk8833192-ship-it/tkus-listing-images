@@ -1,0 +1,457 @@
+{
+  "schema": 1,
+  "products": {
+    "reserve_r1_faith01": {
+      "images": [
+        "reserve_r1_faith01/1.jpg",
+        "reserve_r1_faith01/2.jpg",
+        "reserve_r1_faith01/3.jpg",
+        "reserve_r1_faith01/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    },
+    "reserve_r1_faith03": {
+      "images": [
+        "reserve_r1_faith03/1.jpg",
+        "reserve_r1_faith03/2.jpg",
+        "reserve_r1_faith03/3.jpg",
+        "reserve_r1_faith03/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    },
+    "reserve_r1_teacher02": {
+      "images": [
+        "reserve_r1_teacher02/1.jpg",
+        "reserve_r1_teacher02/2.jpg",
+        "reserve_r1_teacher02/3.jpg",
+        "reserve_r1_teacher02/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    },
+    "reserve_r1_mama01": {
+      "images": [
+        "reserve_r1_mama01/1.jpg",
+        "reserve_r1_mama01/2.jpg",
+        "reserve_r1_mama01/3.jpg",
+        "reserve_r1_mama01/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    },
+    "reserve_r1_mama02": {
+      "images": [
+        "reserve_r1_mama02/1.jpg",
+        "reserve_r1_mama02/2.jpg",
+        "reserve_r1_mama02/3.jpg",
+        "reserve_r1_mama02/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    },
+    "reserve_r1_grandma01": {
+      "images": [
+        "reserve_r1_grandma01/1.jpg",
+        "reserve_r1_grandma01/2.jpg",
+        "reserve_r1_grandma01/3.jpg",
+        "reserve_r1_grandma01/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    },
+    "reserve_r1_grandma02": {
+      "images": [
+        "reserve_r1_grandma02/1.jpg",
+        "reserve_r1_grandma02/2.jpg",
+        "reserve_r1_grandma02/3.jpg",
+        "reserve_r1_grandma02/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    },
+    "reserve_r1_dad01": {
+      "images": [
+        "reserve_r1_dad01/1.jpg",
+        "reserve_r1_dad01/2.jpg",
+        "reserve_r1_dad01/3.jpg",
+        "reserve_r1_dad01/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    },
+    "reserve_r1_dad02": {
+      "images": [
+        "reserve_r1_dad02/1.jpg",
+        "reserve_r1_dad02/2.jpg",
+        "reserve_r1_dad02/3.jpg",
+        "reserve_r1_dad02/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    },
+    "reserve_r1_nurse01": {
+      "images": [
+        "reserve_r1_nurse01/1.jpg",
+        "reserve_r1_nurse01/2.jpg",
+        "reserve_r1_nurse01/3.jpg",
+        "reserve_r1_nurse01/4.jpg"
+      ],
+      "size_chart_url": "https://raw.githubusercontent.com/sk8833192-ship-it/tkus-listing-images/main/size_charts/6.jpg"
+    }
+  },
+  "files": [
+    {
+      "path": "reserve_r1_faith01/1.jpg",
+      "sha256": "394e2d1f15186079a1282d79c219043e22a7a15f12bdfd64017eb7606446cc23",
+      "bytes": 262956,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_faith01/2.jpg",
+      "sha256": "3d35ebac293ec915f8b71f0b810d726cb0209ddb9fcd91877474884c1b8aaf4c",
+      "bytes": 430930,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_faith01/3.jpg",
+      "sha256": "8dc822aca2e74ea673c6f96bc462b60c144e248886c157784b6e5b80c4c51c5a",
+      "bytes": 367807,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_faith01/4.jpg",
+      "sha256": "215f011e696bb7baba9522ac51530c4212c557cc14a03b4ed9fceca0774b2b3c",
+      "bytes": 292587,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_faith03/1.jpg",
+      "sha256": "3f35d47f16dffa9059000533d93ada8a680364b21aa2b79c581c7f826910cbd2",
+      "bytes": 262904,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_faith03/2.jpg",
+      "sha256": "ad833df824bacc5233f5053a198b3fc487094dc59ab05cf375b890b276627dbe",
+      "bytes": 431088,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_faith03/3.jpg",
+      "sha256": "1d850b9a4d65f519f217d0a957fb337972f5ab8044c4085118cdc5509e93faef",
+      "bytes": 367179,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_faith03/4.jpg",
+      "sha256": "477dae9e211e99577bec15d80b5132744711e0b171b21d084e8cbc20b8f559fc",
+      "bytes": 286127,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_teacher02/1.jpg",
+      "sha256": "3b91b4d5435b740cc786139bd1a32de279b10d7c2e4f585f6c6d7d61b879929d",
+      "bytes": 270719,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_teacher02/2.jpg",
+      "sha256": "881e319e5a8eb6c37f2a8c0e630759ada258fc4698337233dae766948f87f1a6",
+      "bytes": 436055,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_teacher02/3.jpg",
+      "sha256": "2f7b965494529c9419e21b560793fcbd7dcea2b65aa90b4ebeaf35cb1219dfea",
+      "bytes": 371111,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_teacher02/4.jpg",
+      "sha256": "85421caa6a9aba837ee57fe32a0f6f94a283209ffe9bb107f13ded4263f39300",
+      "bytes": 298746,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_mama01/1.jpg",
+      "sha256": "f15e04aa8ca344eae667d3603aae5415897197313f4cd135fde9297dd5f4c160",
+      "bytes": 271095,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_mama01/2.jpg",
+      "sha256": "1c76bc3f595090827b2c69cbb2416e4a9df438108ccad36fa835674334c41638",
+      "bytes": 436913,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_mama01/3.jpg",
+      "sha256": "3e2b84b242fec8e5606a162ab448519b45b42bde0c262346af689f6f01f02fd6",
+      "bytes": 372565,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_mama01/4.jpg",
+      "sha256": "5919d150c0446ec93408bc576116ce3c94db0dbe1d719a5fb77eba278397ec3c",
+      "bytes": 301203,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_mama02/1.jpg",
+      "sha256": "341ceaaacfeee8b700c4f3ba9a52eec2f99151ace57583bd956fe67b34f63f64",
+      "bytes": 269696,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_mama02/2.jpg",
+      "sha256": "6ea1586829b99b10d76a3d2295176eeff2acfdde049dd4ce5319edc57dc1562b",
+      "bytes": 435971,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_mama02/3.jpg",
+      "sha256": "391b5971def4f6717a80c180a1955b13bb9ee695e65c4db23b52996bfaf827af",
+      "bytes": 370951,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_mama02/4.jpg",
+      "sha256": "11387ed8561d2a8d267027599a84c35a612a767ea5d23cffab17f961cb54b5ab",
+      "bytes": 296543,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_grandma01/1.jpg",
+      "sha256": "b9912b56faef126c5d00179a552626fa1f952f78b8a45e205b2c8f76e48595a1",
+      "bytes": 270142,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_grandma01/2.jpg",
+      "sha256": "f61a15f93ca49693993a510801646748316dbe5309f49400f45fe18a929ec9ec",
+      "bytes": 435939,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_grandma01/3.jpg",
+      "sha256": "f767ed352d73263da25050cffab32024d64ebb4cf97ad7ae6adcf15d402e2786",
+      "bytes": 371477,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_grandma01/4.jpg",
+      "sha256": "f5e6eb0d73607d956b546a3fa9f931fda71022ba80889a1471dc9c5454191a47",
+      "bytes": 296637,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_grandma02/1.jpg",
+      "sha256": "f5299ec98649b7dbaa321ae9f63e6f1035f78e434f51239233f4c7f4662c60e7",
+      "bytes": 269576,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_grandma02/2.jpg",
+      "sha256": "30f89dc4ee6b6a7c5b726d3395da080446cb7406c110ea52c5d8c79ce4aa84e5",
+      "bytes": 436081,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_grandma02/3.jpg",
+      "sha256": "ab8d4025b3156936711af7e10147745fe5feb8fe8d73e4140613fbce154ed9c3",
+      "bytes": 371327,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_grandma02/4.jpg",
+      "sha256": "a1cd55e1889ac001d6d5fa78803d86a14ddb6830556711233953653297450556",
+      "bytes": 298619,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_dad01/1.jpg",
+      "sha256": "2adeb70d7da1e0e5d4ab6c79d67b50917b086e3b87c99e99856396c0c2472f7e",
+      "bytes": 263647,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_dad01/2.jpg",
+      "sha256": "006e497a2644b6de0e6e14462635158878db712cdbbc27008b23071cf9e194c9",
+      "bytes": 431119,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_dad01/3.jpg",
+      "sha256": "84fd12c0554ec7241d5314ad7f44fa173cb0290836cc3db91bf0f59c11671815",
+      "bytes": 367499,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_dad01/4.jpg",
+      "sha256": "8c16b78372d4db51548bf47da95a59a552c854b7de4ec51dca1109cb69cb1d6f",
+      "bytes": 287263,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_dad02/1.jpg",
+      "sha256": "babfef193ff12b109026a2363b344d3322bcfbb8e0269c798d1ce347686bff98",
+      "bytes": 262589,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_dad02/2.jpg",
+      "sha256": "ad9a3e255206634b4384c7d66ea4f02276a30f8bea31aeb78803d28a1a76040a",
+      "bytes": 430272,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_dad02/3.jpg",
+      "sha256": "bc51b4b29ab880b0e1ee411b92eb32f6469f3238565324bd5f04f89e5e8164ec",
+      "bytes": 366365,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_dad02/4.jpg",
+      "sha256": "8f18f6f96722116955fb012142e156fee101fdcca1ac8fa5a64da452199af18c",
+      "bytes": 283745,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_nurse01/1.jpg",
+      "sha256": "fcfc76881412d48f7eae6683024b27422c6ce079e97be44a117c2e8843b60196",
+      "bytes": 265423,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_nurse01/2.jpg",
+      "sha256": "f191d2f3eabd54153ab8857db18ad3ad37e96ca0bfa00093f40de3edd4c60fe3",
+      "bytes": 432761,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_nurse01/3.jpg",
+      "sha256": "83862a76837e06da37be481bc7748af59a41e57f005777f27aa40735f8f46d40",
+      "bytes": 368334,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "path": "reserve_r1_nurse01/4.jpg",
+      "sha256": "0718d9d15a48f6de2965b181b4fda29f2a83cb36fdb072653a99a1e59707dc3f",
+      "bytes": 289845,
+      "dimensions": [
+        1600,
+        1600
+      ]
+    }
+  ]
+}
